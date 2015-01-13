@@ -1,4 +1,5 @@
 <title>My Three Classes</title>
+<caption>By Parker Zink</caption>
 <?php
 function Name($name) {
     echo "Hello world! My name is $name,";
