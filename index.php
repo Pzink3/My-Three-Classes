@@ -1,3 +1,4 @@
+<title>My Three Classes</title>
 <?php
 function Name($name) {
     echo "Hello world! My name is $name,";
