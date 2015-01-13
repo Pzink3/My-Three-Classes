@@ -1,3 +1,5 @@
+<link rel="stylesheet" type="text/css" href="/../my-three-classes/css/font-face.css">
+<link rel="stylesheet" type="text/css" href="/../my-three-classes/css/main-font.css">
 <title>My Three Classes</title>
 <caption>By Parker Zink</caption>
 <?php
